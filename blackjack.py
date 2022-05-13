@@ -14,3 +14,4 @@ else:
     print("You lose!")
     rating -= 1
 print(ruka, dealer, rating)
+print("Зафиксировано")
