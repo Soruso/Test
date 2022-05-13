@@ -19,7 +19,6 @@ def  igra():
     else:
         print("Вы проиграли!")
         rating -= 1
-        
     print("Ваши очки", ruka, "Очки диллера", dealer, "Ваш рейтинг", rating)
     
 btn = Button(text="Играть", command=igra)
